@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1673016046 source:/home/escadrummer/codeblocksWorkspace/krStudies/hello.c
+	<stdio.h>
+
+1673016102 source:/home/escadrummer/codeblocksWorkspace/krStudies/tempConvert.c
+	<stdio.h>
+
+1673018033 source:/home/escadrummer/codeblocksWorkspace/krStudies/main.c
+	<stdio.h>
+
+1673017553 source:/home/escadrummer/codeblocksWorkspace/krStudies/tempConvertFloat.c
+	<stdio.h>
+
